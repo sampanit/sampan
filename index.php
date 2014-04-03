@@ -3,7 +3,7 @@
 <?php include 'navigation.php'; ?>
 <div class="container-fluid">
 	<div class="jumbotron">
-		<h1>Sampan IT</h1>
+		<h1>Sampan IT abcd</h1>
 		<p>We are coming..... .. abcddd</p>
 		<p>We not only develop software but also we develop vision</p>
 		<!--<p><a class="btn btn-primary btn-lg">Start Now!</a></p>-->
